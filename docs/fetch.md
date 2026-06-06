@@ -5,7 +5,7 @@
 
 
   <div style="width: 450px; height: 200px; overflow: hidden; border: 4px solid #000000; border-radius: 12px; display: flex; align-items: center;">
-      <img src="assets\images\fetch\dog_cover.png" style="max-height: none; max-width: 100%;" alt="Play Fetch">
+      <img src="/assets/images/fetch/dog_cover.png" style="max-height: none; max-width: 100%;" >
   </div>
 
 
@@ -32,21 +32,19 @@ You can play using a keyboard or an Xbox controller.
 ## 📸 Images
 
   <div style="width: 450px; height: 250px; overflow: hidden; border: 4px solid #000000; border-radius: 12px; display: flex; align-items: center;  margin-bottom: 20px">
-    <img src="assets\images\fetch\cover2.png" style="max-height: none; max-width: 100%;" alt="Play Fetch">
+    <img src="/assets/images/fetch/cover2.png" style="max-height: none; max-width: 100%;" >
   </div>
 
   <div style="width: 450px; height: 200px; overflow: hidden; border: 4px solid #000000; border-radius: 12px; display: flex; align-items: center;  margin-bottom: 20px">
-    <img src="assets\images\fetch\ball_returned.png" style="max-height: none; max-width: 120%; margin-left: -40px; margin-top: 105px" alt="Play Fetch">
-  </div>
-  
-  <div style="width: 450px; height: 200px; overflow: hidden; border: 4px solid #000000; border-radius: 12px; display: flex; align-items: center;  margin-bottom: 20px">
-    <img src="assets\images\fetch\launcher_shoot_dog_jump.png" style="max-height: none; max-width: 180%; margin-left: -250px; margin-top: 50px" alt="Play Fetch">
+    <img src="/assets/images/fetch/ball_returned.png" style="max-height: none; max-width: 120%; margin-left: -40px; margin-top: 105px" >
   </div>
 
-
+  <div style="width: 450px; height: 200px; overflow: hidden; border: 4px solid #000000; border-radius: 12px; display: flex; align-items: center;  margin-bottom: 20px">
+    <img src="/assets/images/fetch/launcher_shoot_dog_jump.png" style="max-height: none; max-width: 180%; margin-left: -250px; margin-top: 50px" >
+  </div>
 
   <div style="width: 450px; height: 200px; overflow: hidden; border: 4px solid #000000; border-radius: 12px; display: flex; align-items: center;  margin-bottom: 20px">
-    <img src="assets\images\fetch\returning_ball_6.png" style="max-height: none; max-width: 170%; margin-left: -90px; margin-top: -35px" alt="Play Fetch">
+    <img src="/assets/images/fetch/returning_ball_6.png" style="max-height: none; max-width: 170%; margin-left: -90px; margin-top: -35px" >
   </div>
 
 ## ⬇️ Download
