@@ -1,5 +1,11 @@
 site_name: AirJamStudio
 
+nav:
+  - Home: index.md
+  - Games: games.md
+  - Guidelines: guidelines.md
+
+
 theme:
   name: material
   logo: assets/images/icon.png
