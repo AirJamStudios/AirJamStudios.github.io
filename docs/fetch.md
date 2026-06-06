@@ -3,12 +3,20 @@
   FETCH
 </h1>
 
+
+  <div style="width: 450px; height: 200px; overflow: hidden; border: 4px solid #000000; border-radius: 12px; display: flex; align-items: center;">
+      <img src="assets\images\fetch\dog_cover.png" style="max-height: none; max-width: 100%;" alt="Play Fetch">
+  </div>
+
+
 ## 🥎 Gameplay
 
 Time is ticking! Maximize your score before the clock hits zero.
 
 * **Ball Catch (1-50 pts):** Catch a ball mid-air before it hits the ground for maximum points! The more a ball bounces, the fewer points it is worth.
 * **Time Bonus (+3 sec):** Every single ball you successfully return adds 3 seconds back to your clock
+
+
 
 ## 🕹️ Controls
 
@@ -23,6 +31,23 @@ You can play using a keyboard or an Xbox controller.
 
 ## 📸 Images
 
+  <div style="width: 450px; height: 250px; overflow: hidden; border: 4px solid #000000; border-radius: 12px; display: flex; align-items: center;  margin-bottom: 20px">
+    <img src="assets\images\fetch\cover2.png" style="max-height: none; max-width: 100%;" alt="Play Fetch">
+  </div>
+
+  <div style="width: 450px; height: 200px; overflow: hidden; border: 4px solid #000000; border-radius: 12px; display: flex; align-items: center;  margin-bottom: 20px">
+    <img src="assets\images\fetch\ball_returned.png" style="max-height: none; max-width: 120%; margin-left: -40px; margin-top: 105px" alt="Play Fetch">
+  </div>
+  
+  <div style="width: 450px; height: 200px; overflow: hidden; border: 4px solid #000000; border-radius: 12px; display: flex; align-items: center;  margin-bottom: 20px">
+    <img src="assets\images\fetch\launcher_shoot_dog_jump.png" style="max-height: none; max-width: 180%; margin-left: -250px; margin-top: 50px" alt="Play Fetch">
+  </div>
+
+
+
+  <div style="width: 450px; height: 200px; overflow: hidden; border: 4px solid #000000; border-radius: 12px; display: flex; align-items: center;  margin-bottom: 20px">
+    <img src="assets\images\fetch\returning_ball_6.png" style="max-height: none; max-width: 170%; margin-left: -90px; margin-top: -35px" alt="Play Fetch">
+  </div>
 
 ## ⬇️ Download
 
